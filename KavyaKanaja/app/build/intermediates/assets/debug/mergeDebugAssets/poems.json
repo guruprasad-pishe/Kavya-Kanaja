@@ -1,0 +1,294 @@
+{
+  "poems": [
+    {
+      "id": 1,
+      "title": "Manuja Mattu Desha",
+      "titleKannada": "ಮನುಜ ಮತ್ತು ದೇಶ",
+      "poet": "Kuvempu",
+      "poetKannada": "ಕುವೆಂಪು",
+      "verse": "Baarade ninna januma sakaartha\nBaarade ninna januma sakaartha\nNaadegaagi, janarellara saathu\nBadukidare iduve januma sakaartha",
+      "verseKannada": "ಬಾರದೆ ನಿನ್ನ ಜನುಮ ಸಾಕಾರ್ಥ\nಬಾರದೆ ನಿನ್ನ ಜನುಮ ಸಾಕಾರ್ಥ\nನಾಡಿಗಾಗಿ, ಜನರೆಲ್ಲರ ಸಾತು\nಬದುಕಿದರೆ ಇದುವೆ ಜನುಮ ಸಾಕಾರ್ಥ",
+      "bhavartha": "Life finds its true purpose only when lived for the nation and its people. Personal glory fades; service to humanity is the highest calling.",
+      "bhavarthaKannada": "ನಾಡು ಮತ್ತು ಜನರ ಸೇವೆಯಲ್ಲೇ ಜೀವನದ ನಿಜವಾದ ಅರ್ಥ ಅಡಗಿದೆ.",
+      "era": "Modern (1904–1994)",
+      "category": "Patriotic",
+      "words": [
+        {"word": "ಜನುಮ", "meaning": "Birth / Life", "meaningKannada": "ಹುಟ್ಟು / ಜೀವನ"},
+        {"word": "ಸಾಕಾರ್ಥ", "meaning": "Meaningful / Purposeful", "meaningKannada": "ಅರ್ಥಪೂರ್ಣ"},
+        {"word": "ನಾಡು", "meaning": "Nation / Homeland", "meaningKannada": "ದೇಶ / ಊರು"}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Nityotsava",
+      "titleKannada": "ನಿತ್ಯೋತ್ಸವ",
+      "poet": "K.S. Narasimhaswamy",
+      "poetKannada": "ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ",
+      "verse": "Nityotsava ninage, naadige priyarige\nHubballi, Dharwad, Belagavi odeva\nMere mele nimmeli baaluvaga\nNeera mele bidu haadugaara",
+      "verseKannada": "ನಿತ್ಯೋತ್ಸವ ನಿನಗೆ, ನಾಡಿಗೆ ಪ್ರಿಯರಿಗೆ\nಹುಬ್ಬಳ್ಳಿ, ಧಾರವಾಡ, ಬೆಳಗಾವಿ ಓಡೆವ\nಮೇರೆ ಮೇಲೆ ನಿಮ್ಮೇಳಿ ಬಾಳುವಾಗ\nನೀರ ಮೇಲೆ ಬಿಡು ಹಾಡುಗಾರ",
+      "bhavartha": "Every day is a festival when you live for your beloved ones and your homeland. The poet sings of joy found in the simple life of Karnataka.",
+      "bhavarthaKannada": "ನಿಮ್ಮ ಪ್ರೀತಿಪಾತ್ರರಿಗೆ ಮತ್ತು ನಾಡಿಗೆ ಬದುಕಿದರೆ ಪ್ರತಿದಿನವೂ ಹಬ್ಬ.",
+      "era": "Modern (1915–2003)",
+      "category": "Romantic",
+      "words": [
+        {"word": "ನಿತ್ಯೋತ್ಸವ", "meaning": "Daily Festival / Everyday Celebration", "meaningKannada": "ಪ್ರತಿದಿನದ ಸಂತೋಷ"},
+        {"word": "ಪ್ರಿಯರು", "meaning": "Beloved ones / Dear ones", "meaningKannada": "ಪ್ರೀತಿಪಾತ್ರರು"},
+        {"word": "ಮೇರೆ", "meaning": "Border / Boundary", "meaningKannada": "ಗಡಿ / ಸೀಮೆ"}
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Hosagannada",
+      "titleKannada": "ಹೊಸಗನ್ನಡ",
+      "poet": "Da.Ra. Bendre",
+      "poetKannada": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+      "verse": "Kaadu kusum kumari nee\nKannada nudi siri nee\nBaaDu beLaku belagide\nNeeraagi neDedide",
+      "verseKannada": "ಕಾಡು ಕುಸುಮ ಕುಮಾರಿ ನೀ\nಕನ್ನಡ ನುಡಿ ಸಿರಿ ನೀ\nಬಾಡು ಬೆಳಕು ಬೆಳಗಿದೆ\nನೀರಾಗಿ ನೆಡೆದಿದೆ",
+      "bhavartha": "Bendre compares the Kannada language to a wild forest flower – pure, native, and beautiful. The language has a natural glow that cannot be replicated.",
+      "bhavarthaKannada": "ಕನ್ನಡ ಭಾಷೆಯನ್ನು ಕಾಡಿನ ಹೂವಿಗೆ ಹೋಲಿಸಿ ಅದರ ಸ್ವಾಭಾವಿಕ ಸೌಂದರ್ಯವನ್ನು ಬಣ್ಣಿಸಿದ್ದಾರೆ.",
+      "era": "Modern (1896–1981)",
+      "category": "Language Pride",
+      "words": [
+        {"word": "ಕುಸುಮ", "meaning": "Flower / Blossom", "meaningKannada": "ಹೂವು"},
+        {"word": "ಕುಮಾರಿ", "meaning": "Young girl / Maiden", "meaningKannada": "ಯುವತಿ"},
+        {"word": "ಸಿರಿ", "meaning": "Wealth / Beauty / Grace", "meaningKannada": "ಐಶ್ವರ್ಯ / ಸೌಂದರ್ಯ"}
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Udayavagali Namma",
+      "titleKannada": "ಉದಯವಾಗಲಿ ನಮ್ಮ",
+      "poet": "Huyyalappa Kempegowda",
+      "poetKannada": "ಹುಯ್ಯಲಪ್ಪ ಕೆಂಪೇಗೌಡ",
+      "verse": "Udayavagali namma cheLuva Kannada naaDu\nBaLuvudibba Kannada nudi jeeva\nSaaLu saaLugaLalli haaLuva kavana\nMeeLisi namma Kannada nudi beeva",
+      "verseKannada": "ಉದಯವಾಗಲಿ ನಮ್ಮ ಚೆಳುವ ಕನ್ನಡ ನಾಡು\nಬಳುವುದಿಬ್ಬ ಕನ್ನಡ ನುಡಿ ಜೀವ\nಸಾಳು ಸಾಳುಗಳಲ್ಲಿ ಹಾಳುವ ಕವನ\nಮೀಳಿಸಿ ನಮ್ಮ ಕನ್ನಡ ನುಡಿ ಬೀವ",
+      "bhavartha": "Let our beautiful Karnataka rise and shine. May the Kannada language live forever in our hearts and poetry echo through all its lanes.",
+      "bhavarthaKannada": "ನಮ್ಮ ಕನ್ನಡ ನಾಡು ಉದಯಿಸಲಿ, ಕನ್ನಡ ಭಾಷೆ ಚಿರಂಜೀವಿಯಾಗಲಿ.",
+      "era": "Modern",
+      "category": "Patriotic",
+      "words": [
+        {"word": "ಉದಯ", "meaning": "Rise / Dawn / Beginning", "meaningKannada": "ಹುಟ್ಟು / ಬೆಳಗು"},
+        {"word": "ಚೆಳುವ", "meaning": "Beautiful / Lovely", "meaningKannada": "ಸುಂದರ"},
+        {"word": "ನುಡಿ", "meaning": "Language / Words / Speech", "meaningKannada": "ಭಾಷೆ / ಮಾತು"}
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Shree Ramayana Darshanam",
+      "titleKannada": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+      "poet": "Kuvempu",
+      "poetKannada": "ಕುವೆಂಪು",
+      "verse": "Namma Raama! Namma Raama!\nAatmanu ninna charana\nNimma preetiya sheetala\nBaalu ninna sharana",
+      "verseKannada": "ನಮ್ಮ ರಾಮ! ನಮ್ಮ ರಾಮ!\nಆತ್ಮನು ನಿನ್ನ ಚರಣ\nನಿಮ್ಮ ಪ್ರೀತಿಯ ಶೀತಲ\nಬಾಲು ನಿನ್ನ ಶರಣ",
+      "bhavartha": "A devotional verse from the Jnanpith winning epic Ramayana Darshanam. The devotee surrenders at Rama's feet, seeking shelter in his divine love.",
+      "bhavarthaKannada": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವಿಜೇತ ಕಾವ್ಯ. ಭಕ್ತ ರಾಮನ ಚರಣದಲ್ಲಿ ಶರಣಾಗುವ ಭಾವ.",
+      "era": "Modern (1904–1994)",
+      "category": "Devotional",
+      "words": [
+        {"word": "ಆತ್ಮ", "meaning": "Soul / Spirit", "meaningKannada": "ಜೀವ / ಆಂತರ್ಯ"},
+        {"word": "ಚರಣ", "meaning": "Feet (of the divine)", "meaningKannada": "ಪಾದ"},
+        {"word": "ಶರಣ", "meaning": "Surrender / Refuge", "meaningKannada": "ಆಶ್ರಯ / ಶರಣಾಗತಿ"}
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Moogajji Channavva",
+      "titleKannada": "ಮೂಗಜ್ಜಿ ಚನ್ನವ್ವ",
+      "poet": "Shivarama Karanth",
+      "poetKannada": "ಶಿವರಾಮ ಕಾರಂತ",
+      "verse": "Ellara mane adaragisi\nElla kaaleya kaanu\nSarvara hrudaya tumbisi\nNuDiyuva Channavva naanu",
+      "verseKannada": "ಎಲ್ಲರ ಮನೆ ಆದರಾಗಿಸಿ\nಎಲ್ಲ ಕಾಲೆಯ ಕಾಣು\nಸರ್ವರ ಹೃದಯ ತುಂಬಿಸಿ\nನುಡಿಯುವ ಚನ್ನವ್ವ ನಾನು",
+      "bhavartha": "Channavva, an old woman who has seen all times, speaks of making everyone's home a welcome place and filling all hearts with joy through her words.",
+      "bhavarthaKannada": "ಹಿರಿಯ ಮಹಿಳೆ ಚನ್ನವ್ವ ಎಲ್ಲ ಮನೆಗಳನ್ನೂ ಆದರದಿಂದ ಕಾಣುವ ಮತ್ತು ಎಲ್ಲರ ಮನ ತುಂಬಿಸುವ ತನ್ನ ಮನೋಭಾವ ಹೇಳುತ್ತಾಳೆ.",
+      "era": "Modern (1902–1997)",
+      "category": "Folk",
+      "words": [
+        {"word": "ಆದರ", "meaning": "Respect / Care / Welcome", "meaningKannada": "ಗೌರವ / ಪ್ರೀತಿ"},
+        {"word": "ಹೃದಯ", "meaning": "Heart", "meaningKannada": "ಮನಸ್ಸು / ಅಂತರಂಗ"},
+        {"word": "ಸರ್ವರ", "meaning": "Everyone / All people", "meaningKannada": "ಎಲ್ಲರ"}
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Yaake Ninna Daya Baradu",
+      "titleKannada": "ಯಾಕೆ ನಿನ್ನ ದಯ ಬರದು",
+      "poet": "Kanakadasa",
+      "poetKannada": "ಕನಕದಾಸ",
+      "verse": "Yaake ninna daya baradu\nRaama ninna naama bala\nMaayaa mohada bandha kade\nEne idu ninna leela",
+      "verseKannada": "ಯಾಕೆ ನಿನ್ನ ದಯ ಬರದು\nರಾಮ ನಿನ್ನ ನಾಮ ಬಲ\nಮಾಯಾ ಮೋಹದ ಬಂಧ ಕಡೆ\nಏನೆ ಇದು ನಿನ್ನ ಲೀಲಾ",
+      "bhavartha": "Kanakadasa questions why God's grace has not reached him. He is caught in the snares of illusion and worldly attachment, and calls out to Rama for liberation.",
+      "bhavarthaKannada": "ಕನಕದಾಸರು ದೇವರ ದಯ ಏಕೆ ದೊರೆಯುತ್ತಿಲ್ಲ ಎಂದು ಪ್ರಶ್ನಿಸುತ್ತಾರೆ. ಮಾಯೆ ಮತ್ತು ಮೋಹದ ಬಂಧನದಲ್ಲಿ ಸಿಲುಕಿ ರಾಮನಲ್ಲಿ ಬಿಡುಗಡೆ ಬೇಡುತ್ತಾರೆ.",
+      "era": "Medieval (1508–1606)",
+      "category": "Devotional",
+      "words": [
+        {"word": "ದಯ", "meaning": "Grace / Mercy / Compassion", "meaningKannada": "ಕರುಣೆ / ಮೇಲ್ಮೆ"},
+        {"word": "ಮಾಯಾ", "meaning": "Illusion / Maya", "meaningKannada": "ಭ್ರಮೆ / ಮಿಥ್ಯ"},
+        {"word": "ಮೋಹ", "meaning": "Attachment / Desire / Infatuation", "meaningKannada": "ಆಸಕ್ತಿ / ಆಸೆ"},
+        {"word": "ಲೀಲ", "meaning": "Divine play / Sport", "meaningKannada": "ದೈವಿಕ ಕ್ರೀಡೆ"}
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Anubhava Mantapa",
+      "titleKannada": "ಅನುಭವ ಮಂಟಪ",
+      "poet": "Basavanna",
+      "poetKannada": "ಬಸವಣ್ಣ",
+      "verse": "Kaayakave kailasa\nKaayakave Kailasa\nDeha deva kshetre\nBhakti mukti moola",
+      "verseKannada": "ಕಾಯಕವೇ ಕೈಲಾಸ\nಕಾಯಕವೇ ಕೈಲಾಸ\nದೇಹ ದೇವ ಕ್ಷೇತ್ರ\nಭಕ್ತಿ ಮುಕ್ತಿ ಮೂಲ",
+      "bhavartha": "Basavanna's revolutionary teaching: Work itself is worship. The body is the temple of God. Through devotion and honest labor, one achieves liberation.",
+      "bhavarthaKannada": "ಬಸವಣ್ಣನ ಕ್ರಾಂತಿಕಾರಿ ಸಂದೇಶ: ದುಡಿಮೆಯೇ ದೇವರ ಸೇವೆ. ದೇಹವೇ ದೇವಾಲಯ. ಭಕ್ತಿ ಮತ್ತು ಪ್ರಾಮಾಣಿಕ ಕಾಯಕದಿಂದ ಮೋಕ್ಷ ಪ್ರಾಪ್ತಿ.",
+      "era": "Medieval (1131–1196)",
+      "category": "Vachana",
+      "words": [
+        {"word": "ಕಾಯಕ", "meaning": "Work / Labor / Duty", "meaningKannada": "ದುಡಿಮೆ / ಸೇವೆ"},
+        {"word": "ಕೈಲಾಸ", "meaning": "Heaven / Abode of Shiva", "meaningKannada": "ಸ್ವರ್ಗ / ಶಿವನ ಧಾಮ"},
+        {"word": "ಕ್ಷೇತ್ರ", "meaning": "Holy place / Temple / Field", "meaningKannada": "ಪವಿತ್ರ ಸ್ಥಳ / ದೇವಾಲಯ"},
+        {"word": "ಮುಕ್ತಿ", "meaning": "Liberation / Salvation", "meaningKannada": "ಮೋಕ್ಷ / ಬಿಡುಗಡೆ"}
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Ratnakara Varni",
+      "titleKannada": "ರತ್ನಾಕರ ವರ್ಣಿ",
+      "poet": "Ratnakara Varni",
+      "poetKannada": "ರತ್ನಾಕರ ವರ್ಣಿ",
+      "verse": "Bharateshe vijayishu\nRana ranga samartha\nNinna prabhava mahima\nJaga saartha",
+      "verseKannada": "ಭರತೇಶ ವಿಜಯಿಸು\nರಣ ರಂಗ ಸಮರ್ಥ\nನಿನ್ನ ಪ್ರಭಾವ ಮಹಿಮ\nಜಗ ಸಾರ್ಥ",
+      "bhavartha": "Dedicated to Lord Bharata (Jain tradition), this verse praises his victorious glory in the battlefield of life, and how his divine power fills the world with meaning.",
+      "bhavarthaKannada": "ಭರತ ಪ್ರಭುವಿನ ಮಹಿಮೆ ಮತ್ತು ಅವರ ದಿವ್ಯ ಶಕ್ತಿ ಜಗತ್ತಿಗೆ ಅರ್ಥ ನೀಡುವ ಭಾವ.",
+      "era": "Medieval (16th century)",
+      "category": "Jain",
+      "words": [
+        {"word": "ರಣ ರಂಗ", "meaning": "Battlefield / Arena of war", "meaningKannada": "ಯುದ್ಧ ಭೂಮಿ"},
+        {"word": "ಪ್ರಭಾವ", "meaning": "Influence / Radiance / Power", "meaningKannada": "ಶಕ್ತಿ / ಪ್ರತಾಪ"},
+        {"word": "ಮಹಿಮ", "meaning": "Glory / Greatness", "meaningKannada": "ಹಿರಿಮೆ / ಗಾಂಭೀರ್ಯ"}
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Gadayuddha",
+      "titleKannada": "ಗದಾಯುದ್ಧ",
+      "poet": "Ranna",
+      "poetKannada": "ರನ್ನ",
+      "verse": "Veera Duryodhana vikrama\nMaha mahima\nSamara dharate vira\nAdbhuta charita",
+      "verseKannada": "ವೀರ ದುರ್ಯೋಧನ ವಿಕ್ರಮ\nಮಹ ಮಹಿಮ\nಸಮರ ಧರಾತೆ ವೀರ\nಅದ್ಭುತ ಚರಿತ",
+      "bhavartha": "From the Gadayuddha, one of the gems of old Kannada literature. Ranna portrays Duryodhana not as a villain but as a heroic warrior who meets a glorious end.",
+      "bhavarthaKannada": "ಹಳಗನ್ನಡದ ರತ್ನ ಗದಾಯುದ್ಧದಲ್ಲಿ ರನ್ನ ದುರ್ಯೋಧನನನ್ನು ವೀರ ಯೋಧನಾಗಿ ಚಿತ್ರಿಸಿದ್ದಾರೆ.",
+      "era": "Old Kannada (949 CE)",
+      "category": "Epic",
+      "words": [
+        {"word": "ವಿಕ್ರಮ", "meaning": "Valor / Bravery / Heroism", "meaningKannada": "ಶೌರ್ಯ / ಪರಾಕ್ರಮ"},
+        {"word": "ಸಮರ", "meaning": "War / Battle", "meaningKannada": "ಯುದ್ಧ / ಕಾಳಗ"},
+        {"word": "ಅದ್ಭುತ", "meaning": "Wonderful / Astonishing", "meaningKannada": "ಆಶ್ಚರ್ಯಕರ / ವಿಸ್ಮಯ"}
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Preethi Illada Mele",
+      "titleKannada": "ಪ್ರೀತಿ ಇಲ್ಲದ ಮೇಲೆ",
+      "poet": "G.S. Shivarudrappa",
+      "poetKannada": "ಜಿ.ಎಸ್. ಶಿವರುದ್ರಪ್ಪ",
+      "verse": "Preethi illada mele\nEna baaLu ee baaLu\nMaathu illada mele\nEna kaavu ee kaavu",
+      "verseKannada": "ಪ್ರೀತಿ ಇಲ್ಲದ ಮೇಲೆ\nಏನ ಬಾಳು ಈ ಬಾಳು\nಮಾತು ಇಲ್ಲದ ಮೇಲೆ\nಏನ ಕಾವ್ಯ ಈ ಕಾವ್ಯ",
+      "bhavartha": "What is life without love? What is poetry without words? G.S. Shivarudrappa questions the very essence of existence through the absence of love and language.",
+      "bhavarthaKannada": "ಪ್ರೀತಿಯಿಲ್ಲದ ಜೀವನ ಮತ್ತು ಮಾತಿಲ್ಲದ ಕಾವ್ಯ ಅರ್ಥಹೀನ ಎಂಬ ತಾತ್ವಿಕ ಚಿಂತನೆ.",
+      "era": "Modern (1926–2013)",
+      "category": "Philosophical",
+      "words": [
+        {"word": "ಪ್ರೀತಿ", "meaning": "Love / Affection", "meaningKannada": "ಅನುರಾಗ / ವಾತ್ಸಲ್ಯ"},
+        {"word": "ಬಾಳು", "meaning": "Life / To live", "meaningKannada": "ಜೀವನ / ಜೀವಿಸು"},
+        {"word": "ಕಾವ್ಯ", "meaning": "Poetry / Literature", "meaningKannada": "ಕವಿತೆ / ಸಾಹಿತ್ಯ"}
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Haadu Baala",
+      "titleKannada": "ಹಾಡು ಬಾಲ",
+      "poet": "Panje Mangesh Rao",
+      "poetKannada": "ಪಂಜೆ ಮಂಗೇಶ ರಾವ್",
+      "verse": "Haadu Baala haadu baala\nNinna haadu namma kaadu\nBaanali thandu baalu\nKannaDa naaDina keerthiya haadu",
+      "verseKannada": "ಹಾಡು ಬಾಲ ಹಾಡು ಬಾಲ\nನಿನ್ನ ಹಾಡು ನಮ್ಮ ಕಾಡು\nಬಾನಲಿ ತಂದು ಬಾಲು\nಕನ್ನಡ ನಾಡಿನ ಕೀರ್ತಿಯ ಹಾಡು",
+      "bhavartha": "A children's poem encouraging a child to sing – to bring the glory of Karnataka to the heavens through song.",
+      "bhavarthaKannada": "ಮಗುವಿಗೆ ಕರ್ನಾಟಕದ ಕೀರ್ತಿಯ ಹಾಡನ್ನು ಹಾಡಲು ಪ್ರೋತ್ಸಾಹಿಸುವ ಕವಿತೆ.",
+      "era": "Modern (1874–1937)",
+      "category": "Children",
+      "words": [
+        {"word": "ಹಾಡು", "meaning": "Song / To sing", "meaningKannada": "ಗೀತ / ಗಾಯನ"},
+        {"word": "ಕಾಡು", "meaning": "Forest / Jungle", "meaningKannada": "ಅರಣ್ಯ / ವನ"},
+        {"word": "ಕೀರ್ತಿ", "meaning": "Fame / Glory / Reputation", "meaningKannada": "ಯಶಸ್ಸು / ಗೌರವ"}
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Huttu Haadu",
+      "titleKannada": "ಹುಟ್ಟು ಹಾಡು",
+      "poet": "Siddalingaiah",
+      "poetKannada": "ಸಿದ್ದಲಿಂಗಯ್ಯ",
+      "verse": "Huttidare Kannada naadalli huttabeku\nSaayuvudaadaru Kannada naadalli saayabeku\nKannada naadina geluvige naavella\nShaktiya togondhu yuddhake thodagabeku",
+      "verseKannada": "ಹುಟ್ಟಿದರೆ ಕನ್ನಡ ನಾಡಲ್ಲಿ ಹುಟ್ಟಬೇಕು\nಸಾಯುವುದಾದರೂ ಕನ್ನಡ ನಾಡಲ್ಲಿ ಸಾಯಬೇಕು\nಕನ್ನಡ ನಾಡಿನ ಗೆಲುವಿಗೆ ನಾವೆಲ್ಲ\nಶಕ್ತಿಯ ತೊಗೊಂಡು ಯುದ್ಧಕೆ ತೊಡಗಬೇಕು",
+      "bhavartha": "Born in Karnataka, die in Karnataka – the poet declares absolute devotion to the Kannada land and urges all to fight unitedly for its victory.",
+      "bhavarthaKannada": "ಕನ್ನಡ ನಾಡಲ್ಲಿ ಹುಟ್ಟಿ ಕನ್ನಡ ನಾಡಲ್ಲಿ ಮರಣಿಸಬೇಕೆಂಬ ಸಂಪೂರ್ಣ ಸಮರ್ಪಣೆ ಮತ್ತು ನಾಡಿನ ಗೆಲುವಿಗಾಗಿ ಒಗ್ಗಟ್ಟಿನ ಕರೆ.",
+      "era": "Modern (1954–2021)",
+      "category": "Patriotic",
+      "words": [
+        {"word": "ಗೆಲುವು", "meaning": "Victory / Success / Win", "meaningKannada": "ಜಯ / ವಿಜಯ"},
+        {"word": "ಶಕ್ತಿ", "meaning": "Strength / Power / Energy", "meaningKannada": "ಬಲ / ಶಕ್ತಿ"},
+        {"word": "ಯುದ್ಧ", "meaning": "War / Battle / Fight", "meaningKannada": "ಕಾಳಗ / ಸಮರ"}
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Belaku",
+      "titleKannada": "ಬೆಳಕು",
+      "poet": "V.K. Gokak",
+      "poetKannada": "ವಿ.ಕೆ. ಗೋಕಾಕ",
+      "verse": "Belakige belaku koTTa\nDeevige deepa hadisida\nJnaanadinda jnaanavanu\nBaeLeyalli baeLeyisida",
+      "verseKannada": "ಬೆಳಕಿಗೆ ಬೆಳಕು ಕೊಟ್ಟ\nದೀಪಿಗೆ ದೀಪ ಹಚ್ಚಿದ\nಜ್ಞಾನದಿಂದ ಜ್ಞಾನವನ್ನು\nಬೇಳೆಯಲ್ಲಿ ಬೇಳೆಯಿಸಿದ",
+      "bhavartha": "Knowledge begets knowledge, like a lamp lit from another lamp. V.K. Gokak describes how wisdom spreads through the generations.",
+      "bhavarthaKannada": "ಒಂದು ದೀಪದಿಂದ ಮತ್ತೊಂದು ದೀಪ ಹೇಗೆ ಉರಿಯುತ್ತದೋ, ಹಾಗೇ ಜ್ಞಾನ ಪೀಳಿಗೆಯಿಂದ ಪೀಳಿಗೆಗೆ ಹರಡುತ್ತದೆ.",
+      "era": "Modern (1909–1992)",
+      "category": "Philosophical",
+      "words": [
+        {"word": "ಬೆಳಕು", "meaning": "Light / Illumination", "meaningKannada": "ಪ್ರಕಾಶ / ದೀಪ"},
+        {"word": "ಜ್ಞಾನ", "meaning": "Knowledge / Wisdom", "meaningKannada": "ವಿದ್ಯೆ / ಅರಿವು"},
+        {"word": "ದೀಪ", "meaning": "Lamp / Light / Flame", "meaningKannada": "ಬೆಳಕು / ಜ್ಯೋತಿ"}
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Maanikya VeeNA",
+      "titleKannada": "ಮಾಣಿಕ್ಯ ವೀಣ",
+      "poet": "Purandaradasa",
+      "poetKannada": "ಪುರಂದರದಾಸ",
+      "verse": "Manikya veena muLayisuvalu\nNaada brahmava pade\nSangeetha shaastra kalike\nHariya pada nenu",
+      "verseKannada": "ಮಾಣಿಕ್ಯ ವೀಣ ಮುಳಯಿಸುವಾಳು\nನಾದ ಬ್ರಹ್ಮವ ಪಡೆ\nಸಂಗೀತ ಶಾಸ್ತ್ರ ಕಾಳಿಕೆ\nಹರಿಯ ಪಡ ನೇನು",
+      "bhavartha": "Purandaradasa, the father of Carnatic music, speaks of strumming the jeweled veena to attain Nada Brahma – the divine sound of God.",
+      "bhavarthaKannada": "ಕರ್ನಾಟಕ ಸಂಗೀತದ ಪಿತಾಮಹ ಪುರಂದರದಾಸರು ವೀಣೆ ನುಡಿಸಿ ನಾದ ಬ್ರಹ್ಮನ ಸಾಕ್ಷಾತ್ಕಾರ ಪಡೆಯುವ ಭಾವ.",
+      "era": "Medieval (1484–1564)",
+      "category": "Devotional",
+      "words": [
+        {"word": "ಮಾಣಿಕ್ಯ", "meaning": "Ruby / Precious Gem", "meaningKannada": "ರತ್ನ / ಮಣಿ"},
+        {"word": "ವೀಣ", "meaning": "Veena (a musical instrument)", "meaningKannada": "ಒಂದು ಭಾರತೀಯ ವಾದ್ಯ"},
+        {"word": "ನಾದ ಬ್ರಹ್ಮ", "meaning": "The Divine Sound / God as Sound", "meaningKannada": "ದೈವಿಕ ನಾದ"}
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Akka Mahadevi Vachana",
+      "titleKannada": "ಅಕ್ಕ ಮಹಾದೇವಿ ವಚನ",
+      "poet": "Akka Mahadevi",
+      "poetKannada": "ಅಕ್ಕ ಮಹಾದೇವಿ",
+      "verse": "Thande thaayi bahava bandu\nOndu mane maDida\nPuNya paapa noDade\nChennimallikarajana sharana",
+      "verseKannada": "ತಂದೆ ತಾಯಿ ಬಂಧು ಬಂದು\nಒಂದು ಮನೆ ಮಾಡಿದ\nಪುಣ್ಯ ಪಾಪ ನೋಡದೆ\nಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನ ಶರಣ",
+      "bhavartha": "Akka Mahadevi, the great woman mystic, surrenders to Lord Chennamallikarjuna (Shiva), seeing in him father, mother, and kin – beyond all notions of sin and virtue.",
+      "bhavarthaKannada": "ಅಕ್ಕ ಮಹಾದೇವಿ ಶಿವನಲ್ಲಿ ತಂದೆ, ತಾಯಿ, ಬಂಧು ಎಲ್ಲರನ್ನೂ ಕಂಡು ಸಂಪೂರ್ಣ ಶರಣಾಗುತ್ತಾರೆ.",
+      "era": "Medieval (12th century)",
+      "category": "Vachana",
+      "words": [
+        {"word": "ಬಂಧು", "meaning": "Relative / Kin / Brother", "meaningKannada": "ಸಂಬಂಧಿ / ಸ್ನೇಹಿತ"},
+        {"word": "ಪುಣ್ಯ", "meaning": "Merit / Virtue / Good deeds", "meaningKannada": "ಸತ್ಕಾರ್ಯ / ಶ್ರೇಷ್ಠ ಕರ್ಮ"},
+        {"word": "ಪಾಪ", "meaning": "Sin / Evil deed", "meaningKannada": "ದುಷ್ಕರ್ಮ / ತಪ್ಪು"}
+      ]
+    }
+  ]
+}

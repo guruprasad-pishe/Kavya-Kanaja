@@ -1,0 +1,70 @@
+{
+  "poets": [
+    {
+      "id": 1,
+      "name": "Kuvempu",
+      "nameKannada": "ಕುವೆಂಪು",
+      "born": "29 December 1904",
+      "died": "11 November 1994",
+      "award": "Jnanpith Award (1967)",
+      "bio": "Kuvempu (K.V. Puttappa) is the most celebrated poet of modern Kannada literature. Popularly known as the 'Kavi Ratna' (Gem of Poets) and 'Rashtra Kavi' (National Poet), he wrote the immortal state anthem 'Jaya Bharata Jananiya Tanujate'. His magnum opus 'Sri Ramayana Darshanam' won him the first Jnanpith Award for Kannada. He was a humanist, philosopher, and visionary.",
+      "bioKannada": "ಕುವೆಂಪು (ಕೆ.ವಿ. ಪುಟ್ಟಪ್ಪ) ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಅತ್ಯಂತ ಮೇರು ಕವಿ. 'ಕವಿ ರತ್ನ' ಮತ್ತು 'ರಾಷ್ಟ್ರ ಕವಿ' ಎಂದು ಪ್ರಸಿದ್ಧರು. 'ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ' ರಾಜ್ಯ ಗೀತೆ ರಚಿಸಿದರು.",
+      "famousWorks": ["Sri Ramayana Darshanam", "Kanooru Heggadithi", "Malegalalli Madumagalu", "Bereli Jai", "Jaya Bharata Jananiya Tanujate"]
+    },
+    {
+      "id": 2,
+      "name": "Da.Ra. Bendre",
+      "nameKannada": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+      "born": "31 January 1896",
+      "died": "26 October 1981",
+      "award": "Jnanpith Award (1974)",
+      "bio": "Dattatreya Ramachandra Bendre, known as 'Ambareesha', is one of the greatest lyric poets in Kannada. He composed in both classical Kannada and North Karnataka dialect. His poetry combined folk idioms with philosophical depth. He received the Jnanpith Award for 'Nakutanti'.",
+      "bioKannada": "ದತ್ತಾತ್ರೇಯ ರಾಮಚಂದ್ರ ಬೇಂದ್ರೆ, 'ಅಂಬರೀಶ' ಎಂಬ ಅಂಕಿತದಿಂದ ಪ್ರಸಿದ್ಧ. ಜಾನಪದ ಶೈಲಿ ಮತ್ತು ತಾತ್ವಿಕ ಆಳ ಅವರ ಕವಿತೆಗಳ ವಿಶೇಷತೆ.",
+      "famousWorks": ["Nakutanti", "Gardabha Vilasa", "Sakhigeetha", "Meghadata"]
+    },
+    {
+      "id": 3,
+      "name": "V.K. Gokak",
+      "nameKannada": "ವಿ.ಕೆ. ಗೋಕಾಕ",
+      "born": "9 August 1909",
+      "died": "28 April 1992",
+      "award": "Jnanpith Award (1990)",
+      "bio": "Vinayaka Krishna Gokak was a poet, novelist, critic, and educationist. He is remembered for his contribution to the Gokak Movement which fought for Kannada's official language status. His epic poem 'Bharata Sindhu Rashmi' won the Jnanpith.",
+      "bioKannada": "ವಿನಾಯಕ ಕೃಷ್ಣ ಗೋಕಾಕ ಕವಿ, ಕಾದಂಬರಿಕಾರ, ವಿಮರ್ಶಕ ಮತ್ತು ಶಿಕ್ಷಣತಜ್ಞ. 'ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ' ಕಾವ್ಯಕ್ಕೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ.",
+      "famousWorks": ["Bharata Sindhu Rashmi", "Navilu", "Chandramukhi", "Samara Simha"]
+    },
+    {
+      "id": 4,
+      "name": "U.R. Ananthamurthy",
+      "nameKannada": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ",
+      "born": "21 December 1932",
+      "died": "22 August 2014",
+      "award": "Jnanpith Award (1994)",
+      "bio": "U.R. Ananthamurthy was a novelist, short story writer, and social thinker. His novel 'Samskara' is considered one of the greatest works of Indian literature and was adapted into an iconic film. He explored caste, religion, and modernity with unflinching honesty.",
+      "bioKannada": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಕಾದಂಬರಿಕಾರ, ಕಥೆಗಾರ ಮತ್ತು ಸಾಮಾಜಿಕ ಚಿಂತಕ. 'ಸಂಸ್ಕಾರ' ಕಾದಂಬರಿ ಭಾರತೀಯ ಸಾಹಿತ್ಯದ ಶ್ರೇಷ್ಠ ಕೃತಿ.",
+      "famousWorks": ["Samskara", "Bharathipura", "Avasthe", "Ghatashraddha"]
+    },
+    {
+      "id": 5,
+      "name": "Girish Karnad",
+      "nameKannada": "ಗಿರೀಶ ಕಾರ್ನಾಡ",
+      "born": "19 May 1938",
+      "died": "10 June 2019",
+      "award": "Jnanpith Award (1998)",
+      "bio": "Girish Karnad was a playwright, actor, film director, and one of the major figures of modern Indian theatre. His plays like 'Tughlaq', 'Hayavadana', and 'Naga-Mandala' are celebrated worldwide for their innovative use of myth and history.",
+      "bioKannada": "ಗಿರೀಶ ಕಾರ್ನಾಡ ನಾಟಕಕಾರ, ನಟ ಮತ್ತು ಚಿತ್ರ ನಿರ್ದೇಶಕ. 'ತುಘಲಕ್', 'ಹಯವದನ', 'ನಾಗಮಂಡಲ' ಅಂತಾರಾಷ್ಟ್ರೀಯ ಖ್ಯಾತಿ ಪಡೆದ ನಾಟಕಗಳು.",
+      "famousWorks": ["Tughlaq", "Hayavadana", "Naga-Mandala", "Taledanda", "Yayati"]
+    },
+    {
+      "id": 6,
+      "name": "Chandrashekhar Kambar",
+      "nameKannada": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+      "born": "2 January 1937",
+      "died": "Living",
+      "award": "Jnanpith Award (2010)",
+      "bio": "Chandrashekhar Kambar is a poet, playwright, novelist, and folklorist. His works deeply root in North Karnataka folk traditions. He founded the Kannada University at Hampi. His play 'Jokumaraswamy' is a masterpiece of Kannada theatre.",
+      "bioKannada": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಕವಿ, ನಾಟಕಕಾರ, ಕಾದಂಬರಿಕಾರ ಮತ್ತು ಜಾನಪದ ತಜ್ಞ. ಹಂಪಿ ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಸ್ಥಾಪಕ.",
+      "famousWorks": ["Jokumaraswamy", "Siri Sampige", "Rishyashringara", "Kadukommechaduranga"]
+    }
+  ]
+}
